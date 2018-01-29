@@ -1,3 +1,3 @@
 # hello-world
-practice
+pract
 practice of branch
